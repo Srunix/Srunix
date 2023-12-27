@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Srunix
 - 👀 I’m interested in learn html and css code
 - 🌱 I’m currently learning html
-- 📫 How to reach me ...
+
 
 <!---
 Srunix/Srunix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
